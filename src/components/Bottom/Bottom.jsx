@@ -16,7 +16,7 @@ function Bottom() {
           </a>
         </li>
         <li>
-          <a href="https://twitter.com/rahul_dev75">
+          <a href="https://twitter.com/rahuldev_75">
             <img className="ml-10 w-10" src={Twitter} alt="TwitterIcon" />
           </a>
         </li>
