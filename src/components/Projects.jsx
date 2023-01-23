@@ -127,7 +127,7 @@ function Projects() {
         className="bg-[#71C9CE] text-slate-200 text-2xl p-2 rounded-xl font-bold md:p-4"
         href="https://github.com/rahuldev7583"
       >
-        <button className="mt-6 md:mt-10">All projects</button>
+        <button className="mt-6 md:mt-10 md:mb-8">All projects</button>
       </a>
       
     </div>
