@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&family=Rowdies&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Pacifico&family=Rowdies&display=swap");
 @tailwind base;
 @tailwind components;
+.medium {
+  @apply md:text-blue-600;
+}
 @tailwind utilities;

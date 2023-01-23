@@ -24,7 +24,7 @@ function Menu(props) {
     </div>
   ) : (
     <div
-      className="fixed right-px top-2 pt-0.5 pb-2 pr-2 pl-2 rounded-xl bg-[#71C9CE]"
+      className="fixed right-px top-2 pt-0.5 pb-2 pr-2 pl-2 rounded-xl bg-[#71C9CE] md:hidden"
       onClick={() => {
         setShowOption(true);
         props.anime();
