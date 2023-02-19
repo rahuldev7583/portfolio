@@ -12,14 +12,14 @@ function Bottom() {
       <p className="font-medium text-xl mb-2 md:text-2xl">connect with me</p>
       <ul className="flex mb-2 md:ml-[30%]">
         <li>
-          <a href="mailto: rahuldev7583@gmail.com" className="">
+          <a href="mailto: rahuldev2714@gmail.com" className="">
             <div className="border border-solid-200 p-1 bg-slate-200 rounded-full ml-10">
               <img className="w-8 md:w-12" src={Gmail} alt="GmailIcon" />
             </div>
           </a>
         </li>
         <li>
-          <a href="https://twitter.com/rahuldev_75">
+          <a href="https://twitter.com/iamrahul_dev">
             <img
               className="ml-10 w-10 md:w-16"
               src={Twitter}
